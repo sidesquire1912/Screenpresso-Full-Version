@@ -239,3 +239,6 @@ This repository serves as the official landing page for Screenpresso. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Screenpresso today!**
+
+---
+**Last updated:** 2026-09-12 05:27:54 UTC
