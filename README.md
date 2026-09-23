@@ -241,4 +241,4 @@ This repository serves as the official landing page for Screenpresso. The softwa
 **Get the most recent version of Screenpresso today!**
 
 ---
-**Last updated:** 2026-09-23 00:05:56 UTC
+**Last updated:** 2026-09-23 10:59:00 UTC
